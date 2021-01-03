@@ -1,5 +1,5 @@
 layout: page
 title: "Home"
-permalink: /home/
+permalink: /
 
 # A quick introduction to my repos
