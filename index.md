@@ -3,7 +3,6 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Portfolio
 ---
 
 
@@ -25,7 +24,7 @@ Please log any issues at [mpdroid/NotateML/issues](https://github.com/mpdroid/No
 ## Gedankens
 [mpdroid.github.io/gedankens](https://mpdroid.github.io/gedankens) brings Einstein's famous Gedanken-Experiments to 3-dimensional life in your browser with the most singular ThreeJS framework. 
 
-[App](mpdroid.github.io/gedankens) | [Code](https://github.com/mpdroid/gedankens) | [Writeup](https://marvinpdroid.medium.com/special-relativity-with-threejs-657a3552d886) 
+[App](mpdroid.github.io/gedankens) &#9702; [Code](https://github.com/mpdroid/gedankens) &#9702;[Writeup](https://marvinpdroid.medium.com/special-relativity-with-threejs-657a3552d886) 
 
 ---
 
