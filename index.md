@@ -74,3 +74,11 @@ A code tutorial on how to refactor a monolith using Spring Cloud Services essent
 
 [Code](https://github.com/mpdroid/whoppr) &#9702; [Writeup](https://medium.com/p/1ac7a0803db7/edit) 
 
+---
+
+## Algorithms made easy
+HTML | CSS | JavaScript | jQuery
+
+A website to help beginners visually understand the workings of common sorting, searching and graph alogrithms.
+
+[App](https://www.lemmaplay.com)
