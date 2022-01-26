@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: Portfolio
 ---
 
 
@@ -22,16 +23,27 @@ Please log any issues at [mpdroid/NotateML/issues](https://github.com/mpdroid/No
 ---
 
 ## Gedankens
-[mpdroid.github.io/gedankens](https://mpdroid.github.io/gedankens) brings Einstein's famous Gedanken-Experiments to 3-dimensional life in your browser with the most singular ThreeJS framework. 
+[Gedankens](https://mpdroid.github.io/gedankens) brings Einstein's famous Gedanken-Experiments to 3-dimensional life in your browser with the most singular ThreeJS framework. 
 
 [App](mpdroid.github.io/gedankens) &#9702; [Code](https://github.com/mpdroid/gedankens) &#9702;[Writeup](https://marvinpdroid.medium.com/special-relativity-with-threejs-657a3552d886) 
 
 ---
 
 
-## D3 in Angular
-[mpdroid.github.io/d3-in-angular](https://mpdroid.github.io/d3-in-angular/)  shows how to build reactive charts inside an Angular 8 application using the D3 JavaScript framework.
+## My Experiments with D3
+[d3-in-angular](https://mpdroid.github.io/d3-in-angular/) shows how to build reactive charts inside an Angular 8 application using the D3 JavaScript framework.
 
-[App](mpdroid.github.io/d3-in-angular) | [Code](https://github.com/mpdroid/d3-in-angular)  | [Writeup](https://medium.com/@marvinpdroid/reactive-charts-in-angular-8-using-d3-4550bb0b4255)   
+[App](mpdroid.github.io/d3-in-angular) &#9702; [Code](https://github.com/mpdroid/d3-in-angular) &#9702; [Writeup](https://medium.com/@marvinpdroid/reactive-charts-in-angular-8-using-d3-4550bb0b4255)   
+
+
+
+[d3-audio](https://mpdroid.github.io/d3-in-angular/) explores data visualization by streaming audio using the Web-Audio-API into psychedlic D3 graphs.
+
+[App](mpdroid.github.io/d3-audio) &#9702; [Code](https://github.com/mpdroid/d3-audio) &#9702; [Writeup](https://medium.com/@marvinpdroid/visualizing-sound-with-d3-and-web-audio-api-435ffea88f30?source=friends_link&sk=d0e09a7161ea5ccad9b072220c5a653d)
+
+[The Golden Goose Stock Portfolio](https://observablehq.com/@mpdroid/the-golden-goose-stock-portfolio) over at Observable HQ explores visualization of real-time data with D3 stream graphs.
+
+[Hierarchical Stacked Bar Chart](https://observablehq.com/@mpdroid/hierarchical-stacked-bar-chart) also at Observable HQ shows how to build drill down capability to analyze multi-dimensional data with D3.
+  
 
 ---
