@@ -5,8 +5,10 @@
 layout: home
 ---
 
-I am a die hard (3) tech who enjoys fiddling with frameworks and writing about it at [marvinpdroid.medium.com](https://marvinpdroid.medium.com).
+Rajaram Gurumurthi\
 
-This here is a summary of my favorite project repos.
+What I think: [marvinpdroid.medium.com](https://marvinpdroid.medium.com)
+
+What I do:
 
 
