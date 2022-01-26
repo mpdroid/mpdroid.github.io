@@ -5,8 +5,6 @@
 layout: home
 ---
 
-Rajaram Gurumurthi\
-
 What I think: [marvinpdroid.medium.com](https://marvinpdroid.medium.com)
 
 What I do:
