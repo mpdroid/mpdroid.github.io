@@ -6,7 +6,6 @@ layout: home
 title: Portfolio
 ---
 
-
 *in order of coolness*
 
 ## Notate ML
