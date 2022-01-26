@@ -39,5 +39,4 @@ Brings Einstein's famous Gedanken-Experiments to 3-dimensional life in your brow
 
 [Hierarchical Stacked Bar Chart](https://observablehq.com/@mpdroid/hierarchical-stacked-bar-chart) also at Observable HQ shows how to build drill down capability to analyze multi-dimensional data with D3.
   
-
 ---
