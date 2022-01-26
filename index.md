@@ -29,7 +29,6 @@ Brings Einstein's famous Gedanken-Experiments to 3-dimensional life in your brow
 
 ---
 
-
 ## My Experiments with D3
 [d3-in-angular](https://github.com/d3-in-angular/) shows how to build reactive charts inside an Angular 8 application using the D3 JavaScript framework.
 
