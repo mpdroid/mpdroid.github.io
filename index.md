@@ -18,6 +18,7 @@ layout: home
 Please log any issues at [mpdroid/NotateML/issues](https://github.com/mpdroid/NotateML/issues).
 
 [Video](https://youtu.be/gDqPt3V2-qo) | [Writeup](https://medium.com/@marvinpdroid/introducing-notate-ml-8de9b68715f4) 
+
 ___
 ## Gedankens
 [mpdroid.github.io/gedankens](https://mpdroid.github.io/gedankens) brings Einstein's famous Gedanken-Experiments to 3-dimensional life in your browser with the most singular ThreeJS framework. 
