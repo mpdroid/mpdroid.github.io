@@ -28,3 +28,4 @@ ___
 [mpdroid.github.io/d3-in-angular](https://mpdroid.github.io/d3-in-angular/)  shows how to build reactive charts inside an Angular 8 application using the D3 JavaScript framework.
 
 [App](mpdroid.github.io/d3-in-angular) | [Code](https://github.com/mpdroid/d3-in-angular)  | [Writeup](https://medium.com/@marvinpdroid/reactive-charts-in-angular-8-using-d3-4550bb0b4255)   
+___
