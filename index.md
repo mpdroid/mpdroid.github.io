@@ -35,7 +35,7 @@ Brings Einstein's famous Gedanken-Experiments to 3-dimensional life in your brow
 ## Bones
 C++  &#124; Ubuntu
 
-A platform built on top of the Azure Kinect Developer Kit, along with sample apps that demonstrate the coolness that is the Kinect depth camera with body tracking features.
+A platform built on top of the Azure Kinect Developer Kit, along with sample apps that demonstrate the Kinect depth camera body tracking features.
 
 [Video](https://www.youtube.com/watch?v=JbQFNzRO1x0) &#9702; [Code](https://github.com/mpdroid/bones) &#9702; [Writeup](https://marvinpdroid.medium.com/thing-finding-with-kinect-dk-b50470044c56) 
 
@@ -54,7 +54,7 @@ Angular  &#124; JavaScript &#124; D3
   
 ---
 
-## Deep Fake Detection Challenge
+## Deep Fake Detection Challenge - FastAI Odds and Ends
 Python | FastAI
 
 This Jupyter notebook, is a compilation of interesting things I had learnt and implemented as part of the Kaggle [Deep Fake Detection Challenge](https://www.kaggle.com/c/deepfake-detection-challenge) competition.
