@@ -18,7 +18,7 @@ title: Portfolio
 
 Please log any issues at [mpdroid/NotateML/issues](https://github.com/mpdroid/NotateML/issues).
 
-[Video](https://youtu.be/gDqPt3V2-qo) | [Writeup](https://medium.com/@marvinpdroid/introducing-notate-ml-8de9b68715f4) 
+[Video](https://youtu.be/gDqPt3V2-qo) &#9702; [Writeup](https://medium.com/@marvinpdroid/introducing-notate-ml-8de9b68715f4) 
 
 ---
 
