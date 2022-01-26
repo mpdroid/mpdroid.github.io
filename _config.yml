@@ -8,6 +8,7 @@ github_username:  mpdroid
 
 # Build settings
 theme: minima
+markdown: kramdown
 plugins:
   - jekyll-feed
 
