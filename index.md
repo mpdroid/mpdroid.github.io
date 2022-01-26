@@ -3,11 +3,9 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: Portfolio
 ---
 
-
-
-# Portfolio
 
 ## Notate ML
 [Notate ML](https://apps.apple.com/us/app/notate-ml/id1605408700) is an iOS app that helps you create object detection datasets from the comfort of your phone.
