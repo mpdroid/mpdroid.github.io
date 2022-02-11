@@ -28,7 +28,7 @@ JavaScript  &#124; ThreeJS
 
 Brings Einstein's famous Gedanken-Experiments to 3-dimensional life in your browser with the most singular ThreeJS framework. 
 
-[App](mpdroid.github.io/gedankens) &#9702; [Code](https://github.com/mpdroid/gedankens) &#9702;[Writeup](https://marvinpdroid.medium.com/special-relativity-with-threejs-657a3552d886) 
+[App](https://mpdroid.github.io/gedankens/) &#9702; [Code](https://github.com/mpdroid/gedankens) &#9702;[Writeup](https://marvinpdroid.medium.com/special-relativity-with-threejs-657a3552d886) 
 
 ---
 
